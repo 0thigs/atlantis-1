@@ -34,7 +34,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 1. **Clone o repositório ou navegue até a pasta do projeto:**
    ```bash
    git clone https://github.com/0thigs/atlantis-1.git
-   cd atvi-atlantis
+   cd atlantis-1
    ```
 
 2. **Instale as dependências:**
